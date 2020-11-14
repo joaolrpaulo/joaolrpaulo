@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there stranger 👋
 
 - 🔭 I’m currently working @ Talkdesk as a Software Engineer in the Team responsible for their Studio Product.
 - 🌱 I’m currently learning Quarkus & Kubernetes
